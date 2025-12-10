@@ -1,4 +1,4 @@
-# CMPE492 - Multimodal Medical Imaging
+# Multimodal Disease Classification
 
 Multimodal disease classification using chest X-ray images and clinical text.
 
